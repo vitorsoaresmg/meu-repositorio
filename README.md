@@ -1,2 +1,5 @@
 # meu-repositorio
- Repositorio para estudo de versionamento de código-fonte.
+
+Seja bem vindo!
+
+ Este é o meu repositorio para estudo de versionamento de código-fonte.
